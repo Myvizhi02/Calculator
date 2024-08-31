@@ -1,4 +1,5 @@
 How It Works
+
 HTML:
 The <div class="calculator"> element wraps the entire calculator.
 The <div class="display" id="display"></div> element is where the numbers and results are shown.
